@@ -1,8 +1,12 @@
+Project Is modified by [Ankush Tiwari](https://github.com/tiwari-ankush/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+### `npm init`
 
 In the project directory, you can run:
 
