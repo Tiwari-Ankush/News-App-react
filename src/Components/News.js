@@ -127,7 +127,7 @@ const News = (props) => {
         className="text-center"
         style={{ margin: "25px 0px", marginTop: "90px" }}
       >
-        NewsApp - Top {capitalizeFirstLetter(props.category)} Headlines
+        News Sphere - Top {capitalizeFirstLetter(props.category)} Headlines
       </h2>
       {/* {this.state.loading && <Spinner />} */}
 

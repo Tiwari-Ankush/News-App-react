@@ -2,9 +2,11 @@ import React from "react";
 
 const NewsItem = (props) => {
   let { title, description, imageUrl, newsUrl, author, date, source } = props;
-  return (
-    <>
+  return ( 
+    <> 
+    <br/><br/>
       <div className="card" style={{ width: "18rem" }}>
+        <br/>
         <img
           src={
             !imageUrl
